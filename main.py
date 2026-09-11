@@ -1,5 +1,4 @@
-ls -la
-print("깃허브")
+print("hello world")
 
 
 
